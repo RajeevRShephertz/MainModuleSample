@@ -1,0 +1,3 @@
+[submodule "SubModuleSample"]
+	path = SubModuleSample
+	url = https://github.com/RajeevRShephertz/SubModuleSample.git
